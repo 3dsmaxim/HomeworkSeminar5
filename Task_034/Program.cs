@@ -35,3 +35,5 @@ int[] array = GetRandomArray(num);
 Console.Write($"массив [{String.Join(" ,", array)}]");
 Counter(array);
 
+
+
